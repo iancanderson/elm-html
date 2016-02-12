@@ -520,7 +520,7 @@ type' value =
 
 
 {-| Defines a default value which will be displayed in a `button`, `option`,
-`input`, `li`, `meter`, `progress`, or `param`.
+`input`, `li`, `meter`, `progress`, `param`, or `textarea`.
 -}
 value : String -> Attribute
 value value =
